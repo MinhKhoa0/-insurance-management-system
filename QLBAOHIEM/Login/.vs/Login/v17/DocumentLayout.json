@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BM CSDL\\Cu\u1ED1i k\u1EF3\\QLBAOHIEM\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{312CD5E7-8242-4343-BB8B-B08A51F473F9}|Login.csproj|d:\\bm csdl\\cu\u1ED1i k\u1EF3\\qlbaohiem\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{312CD5E7-8242-4343-BB8B-B08A51F473F9}|Login.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312CD5E7-8242-4343-BB8B-B08A51F473F9}|Login.csproj|d:\\bm csdl\\cu\u1ED1i k\u1EF3\\qlbaohiem\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{312CD5E7-8242-4343-BB8B-B08A51F473F9}|Login.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\BM CSDL\\Cu\u1ED1i k\u1EF3\\QLBAOHIEM\\Login\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\BM CSDL\\Cu\u1ED1i k\u1EF3\\QLBAOHIEM\\Login\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:15:08.317Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\BM CSDL\\Cu\u1ED1i k\u1EF3\\QLBAOHIEM\\Login\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\BM CSDL\\Cu\u1ED1i k\u1EF3\\QLBAOHIEM\\Login\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAqwP8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:43:55.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

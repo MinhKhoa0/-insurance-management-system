@@ -1,0 +1,41 @@
+D:\BM CSDL\Lab1\Login\bin\Debug\Login.exe.config
+D:\BM CSDL\Lab1\Login\bin\Debug\Login.exe
+D:\BM CSDL\Lab1\Login\bin\Debug\Login.pdb
+D:\BM CSDL\Lab1\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\BM CSDL\Lab1\Login\obj\Debug\Login.Form1.resources
+D:\BM CSDL\Lab1\Login\obj\Debug\Login.Properties.Resources.resources
+D:\BM CSDL\Lab1\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\BM CSDL\Lab1\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\BM CSDL\Lab1\Login\obj\Debug\Login.exe
+D:\BM CSDL\Lab1\Login\obj\Debug\Login.pdb
+D:\BM CSDL\Lab1\Login\obj\Debug\Login.FormDanhSachNV.resources
+D:\BM CSDL\Lab04\Login\bin\Debug\Login.exe.config
+D:\BM CSDL\Lab04\Login\bin\Debug\Login.exe
+D:\BM CSDL\Lab04\Login\bin\Debug\Login.pdb
+D:\BM CSDL\Lab04\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\BM CSDL\Lab04\Login\obj\Debug\Login.Form1.resources
+D:\BM CSDL\Lab04\Login\obj\Debug\Login.FormDanhSachNV.resources
+D:\BM CSDL\Lab04\Login\obj\Debug\Login.Properties.Resources.resources
+D:\BM CSDL\Lab04\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\BM CSDL\Lab04\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\BM CSDL\Lab04\Login\obj\Debug\Login.exe
+D:\BM CSDL\Lab04\Login\obj\Debug\Login.pdb
+D:\BM CSDL\Lab04\Login\obj\Debug\Login.FormHTQL.resources
+D:\BM CSDL\Lab04\Login\obj\Debug\Login.QLLopHoc.resources
+D:\BM CSDL\Lab04\Login\obj\Debug\Login.FormQLSV.resources
+D:\BM CSDL\Cuối kỳ\QLBAOHIEM\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\BM CSDL\Cuối kỳ\QLBAOHIEM\Login\obj\Debug\Login.Form1.resources
+D:\BM CSDL\Cuối kỳ\QLBAOHIEM\Login\obj\Debug\Login.FormTrangAdmin.resources
+D:\BM CSDL\Cuối kỳ\QLBAOHIEM\Login\obj\Debug\Login.Properties.Resources.resources
+D:\BM CSDL\Cuối kỳ\QLBAOHIEM\Login\obj\Debug\Login.QLKeToan.resources
+D:\BM CSDL\Cuối kỳ\QLBAOHIEM\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\BM CSDL\Cuối kỳ\QLBAOHIEM\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\BM CSDL\Cuối kỳ\QLBAOHIEM\Login\obj\Debug\Login.exe
+D:\BM CSDL\Cuối kỳ\QLBAOHIEM\Login\obj\Debug\Login.pdb
+D:\BM CSDL\Cuối kỳ\QLBAOHIEM\Login\bin\Debug\Login.exe.config
+D:\BM CSDL\Cuối kỳ\QLBAOHIEM\Login\bin\Debug\Login.exe
+D:\BM CSDL\Cuối kỳ\QLBAOHIEM\Login\bin\Debug\Login.pdb
+D:\BM CSDL\Cuối kỳ\QLBAOHIEM\Login\obj\Debug\Login.FormQLNBH.resources
+D:\BM CSDL\Cuối kỳ\QLBAOHIEM\Login\obj\Debug\Login.QLGiamSat.resources
+D:\BM CSDL\Cuối kỳ\QLBAOHIEM\Login\obj\Debug\Login.QLHopDong.resources
+D:\BM CSDL\Cuối kỳ\QLBAOHIEM\Login\obj\Debug\Login.QLTaiKhoan.resources
