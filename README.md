@@ -34,5 +34,10 @@ Dự án phần mềm quản lý bảo hiểm được xây dựng bằng **C# (
 4.  Sửa lại `Data Source` thành tên Server của bạn (thường là `.` hoặc `.\SQLEXPRESS` hoặc tên máy tính của bạn).
 
 Ví dụ:
-```xml
-<add name="MyConn" connectionString="Data Source=YOUR_SERVER_NAME;Initial Catalog=QLBAOHIEM;Integrated Security=True" providerName="System.Data.SqlClient" />
+`<add name="MyConn" connectionString="Data Source=YOUR_SERVER_NAME;Initial Catalog=QLBAOHIEM;Integrated Security=True" providerName="System.Data.SqlClient" />`
+
+### 3. Chạy chương trình
+Nhấn Start hoặc F5 trong Visual Studio để chạy.
+
+
+
